@@ -4,6 +4,10 @@ state={
 	manpower = 4350000
 	state_category = town
 
+	resources={
+		rubber = 1
+	}
+
 	history={
 		owner = CHI
 		add_core_of = CHI

@@ -1,0 +1,15 @@
+﻿l_english:
+ # China_flavor
+ # Ideas
+ CHI_warlord_infighting:0 "Warlords Infighting"
+ CHI_bureaucratic_corruption:0 "Bureaucratic Corruption"
+ CHI_unorganized_party:0 "CHI_unorganized_party"
+ CHI_illiterate_officers:0 "Illiterate Officers"
+ CHI_poor_industry:0 "Poor Industry"
+ # Ideas desc
+ CHI_warlord_infighting_desc:0 "The repulic is namely unified after decades of civil war. However, warlords are holding tight their own army and refuse to follow the order from the government. And even put to use, their army has poor training and even worse discipline."
+ CHI_bureaucratic_corruption_desc:0 "Our government is no longer a revolutionary government anymore. Most of officials has given into the old ways we were fighting against decades ago. All the government funding will be embezzled as soon as it goes into the hand of local officals."
+ CHI_unorganized_party_desc:0 "Kuomintang, the party of the citizens, has shifted far away from its principles. It's no more than a group of corrupted officials and cunning opportunists."
+ CHI_illiterate_officers_desc:0 "Due to the poor education and low literate rate, most of the low ranking officers almost had no military education and theoretical knowlege. Officers treat their fellow soldiers without any compassion and soldiers treat their superior without any respect."
+ CHI_poor_industry_desc:0 "Even after the endeavour in the end of last century. After decades of chaos and civil war, China virtually goes back to 19th. We almost have no capacity to produce any mordern machinery and even our existing ones are no more than slightly improved medieval workshops."
+ # STATE

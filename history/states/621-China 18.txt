@@ -2,6 +2,11 @@ state={
 	id=621
 	name="STATE_621"
 
+	resources={
+		steel=2
+		chromium=1
+	}
+
 	history={
 		owner = CHI
 		add_core_of = CHI
