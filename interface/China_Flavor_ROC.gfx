@@ -1,0 +1,238 @@
+spriteTypes = {
+
+# China
+	spriteType = {
+		name = "GFX_report_event_wang_berlin"
+		texturefile = "gfx/event_pictures/report_event_wang_berlin.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_wang_success"
+		texturefile = "gfx/event_pictures/report_event_wang_success.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_wang_failure"
+		texturefile = "gfx/event_pictures/report_event_wang_failure.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_ally_meeting"
+		texturefile = "gfx/event_pictures/report_event_ally_meeting.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_farewell_dinner"
+		texturefile = "gfx/event_pictures/report_event_farewell_dinner.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_tsingtao"
+		texturefile = "gfx/event_pictures/report_event_tsingtao.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_mine_workers"
+		texturefile = "gfx/event_pictures/report_event_mine_workers.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_foreigners"
+		texturefile = "gfx/event_pictures/report_event_foreigners.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_chinese_soldiers_marching"
+		texturefile = "gfx/event_pictures/report_event_chinese_soldiers_marching.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_german_equipped_chinese_soliders"
+		texturefile = "gfx/event_pictures/report_event_german_equipped_chinese_soliders.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_jiang_speech"
+		texturefile = "gfx/event_pictures/report_event_jiang_speech.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_japanese_pow"
+		texturefile = "gfx/event_pictures/report_event_japanese_pow.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_japanese_pow2"
+		texturefile = "gfx/event_pictures/report_event_japanese_pow2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_finest_hour_axis"
+		texturefile = "gfx/event_pictures/report_event_finest_hour_axis.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_finest_hour_com"
+		texturefile = "gfx/event_pictures/report_event_finest_hour_com.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_finest_hour_ally"
+		texturefile = "gfx/event_pictures/report_event_finest_hour_ally.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_stalin_speech"
+		texturefile = "gfx/event_pictures/report_event_stalin_speech.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_lenin_speech"
+		texturefile = "gfx/event_pictures/report_event_lenin_speech.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_chinese_tank1"
+		texturefile = "gfx/event_pictures/report_event_chinese_tank1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_french_soldiers"
+		texturefile = "gfx/event_pictures/report_event_french_soldiers.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_chinese_scientist"
+		texturefile = "gfx/event_pictures/report_event_chinese_scientist.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_idian_civilian"
+		texturefile = "gfx/event_pictures/report_event_idian_civilian.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_pupil"
+		texturefile = "gfx/event_pictures/report_event_pupil.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_peking_university"
+		texturefile = "gfx/event_pictures/report_event_peking_university.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_tibet_farmer"
+		texturefile = "gfx/event_pictures/report_event_tibet_farmer.dds"
+	}
+
+	spriteType = {
+		name = "GFX_news_event_north_campaign"
+		texturefile = "gfx/event_pictures/news_event_1000.dds"
+	}
+
+	spriteType = {
+		name = "GFX_news_event_republic_air_plane"
+		texturefile = "gfx/event_pictures/news_event_1001.dds"
+	}
+
+	spriteType = {
+		name = "GFX_news_event_chinese_tank"
+		texturefile = "gfx/event_pictures/news_event_1002.dds"
+	}
+
+	spriteType = {
+		name = "GFX_news_event_chinese_battleship"
+		texturefile = "gfx/event_pictures/news_event_1003.dds"
+	}
+
+	spriteType = {
+		name = "GFX_news_event_chinese_rifle"
+		texturefile = "gfx/event_pictures/news_event_1004.dds"
+	}
+
+	spriteType = {
+		name = "GFX_news_event_nanjing_government"
+		texturefile = "gfx/event_pictures/news_event_1005.dds"
+	}
+
+	spriteType = {
+		name = "GFX_news_event_jiang_and_song_sisters"
+		texturefile = "gfx/event_pictures/news_event_1006.dds"
+	}
+
+	spriteType = {
+		name = "GFX_news_event_kuomingtang_poster"
+		texturefile = "gfx/event_pictures/news_event_1007.dds"
+	}
+
+	spriteType = {
+		name = "GFX_news_event_jiang_military_drilling"
+		texturefile = "gfx/event_pictures/news_event_1008.dds"
+	}
+
+	spriteType = {
+		name = "GFX_news_event_chinese_expedition"
+		texturefile = "gfx/event_pictures/news_event_1009.dds"
+	}
+
+	spriteType = {
+		name = "GFX_news_event_chinese_celebration"
+		texturefile = "gfx/event_pictures/news_event_1010.dds"
+	}
+
+	spriteType = {
+		name = "GFX_news_event_student_celebration"
+		texturefile = "gfx/event_pictures/news_event_1011.dds"
+	}
+
+	spriteType = {
+		name = "GFX_news_event_chinese_expedition_in_thai"
+		texturefile = "gfx/event_pictures/news_event_1012.dds"
+	}
+
+	spriteType = {
+		name = "GFX_news_event_indian_army"
+		texturefile = "gfx/event_pictures/news_event_1013.dds"
+	}
+	spriteType = {
+		name = "GFX_news_event_singapore_celebration"
+		texturefile = "gfx/event_pictures/news_event_1014.dds"
+	}
+
+	spriteType = {
+		name = "GFX_news_event_jiang_writing"
+		texturefile = "gfx/event_pictures/news_event_1015.dds"
+	}
+
+	spriteType = {
+		name = "GFX_news_event_chinese_victory_parade"
+		texturefile = "gfx/event_pictures/news_event_1016.dds"
+	}
+
+	spriteType = {
+		name = "GFX_news_event_lushan_speech"
+		texturefile = "gfx/event_pictures/news_event_1017.dds"
+	}
+
+	spriteType = {
+		name = "GFX_news_event_old_shangahi"
+		texturefile = "gfx/event_pictures/news_event_1018.dds"
+	}
+
+	spriteType = {
+		name = "GFX_news_event_old_chongqing"
+		texturefile = "gfx/event_pictures/news_event_1019.dds"
+	}
+
+	spriteType = {
+		name = "GFX_news_event_oil_worker"
+		texturefile = "gfx/event_pictures/news_event_1020.dds"
+	}
+
+	spriteType = {
+		name = "GFX_news_event_japanese_marine_shanghai"
+		texturefile = "gfx/event_pictures/news_event_1021.dds"
+	}
+
+}

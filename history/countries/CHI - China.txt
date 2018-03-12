@@ -39,7 +39,6 @@ if = {
 		CHI_nine_power_treaty
 		CHI_warlords_infighting
 		CHI_bureaucratic_corruption
-		CHI_unorganized_party
 		CHI_illiterate_officers
 		CHI_poor_industry
 		free_trade

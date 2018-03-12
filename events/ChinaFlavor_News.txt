@@ -1,0 +1,53 @@
+﻿###########################
+# News Event
+###########################
+
+add_namespace = news
+news_event = {
+	id = news.1500
+	title = news.1500.t
+	desc = news.1500.d
+	picture = GFX_news_event_japanese_marine_shanghai
+
+	major = yes
+
+	fire_only_once = yes
+
+  trigger = {
+    NOT = { has_global_flag = second_shanghai_incident }
+    date > 1936.1.1
+    tag = CHI
+  }
+
+  mean_time_to_happen = {
+		days = 10
+	}
+
+	option = {
+		name = news.1500.a
+		trigger = {
+			NOT = {
+				OR = {
+          TAG = CHI
+          TAG = JAP
+        }
+			}
+		}
+	}
+
+  option = {
+    name = news.1500.b
+    trigger = {
+      TAG = JAP
+    }
+  }
+
+	option = {
+		name = news.1500.c
+		trigger = { TAG = CHI }
+    custom_effect_tooltip = news.1500.c.tt
+    hidden_effect = {
+			CHI = { country_event = { days = 2 id = ROC.1 } }
+		}
+	}
+}

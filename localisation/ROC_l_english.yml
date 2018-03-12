@@ -1,0 +1,14 @@
+﻿l_english:
+ # ROC Trees
+ # Events
+ ROC.1:0 "Second Shanghai Incident"
+ ROC.1.t:0 "Second Shanghai Incident"
+ ROC.1.d:0 "Japanese Special Naval Landing Forces has built up bunkers and armored up in concession zones, and our local force have surrounded them but very little can be made without further reinforcement. Also, there is a rumor Japan is sending more troops by sea."
+ ROC.1.a:0 "We should act fast!"
+ # news
+ news.1500:0 "Oyama Incident"
+ news.1500.t:0 "Oyama Incident"
+ news.1500.d:0 "Last night, Lieutenant Isao Oyama of the Japanese Special Naval Landing Forces came speeding in a car up to the gate of Hongqiao Airport. As he was stopped by a Chinese guard, the lieutenant attempted to drive past the gate. The guard stopped him again and Oyama shot and killed the guard. Other Chinese guards returned fire and Lieutenant Oyama was killed in the shootout. The incident heightened the tensions between the Chinese and Japanese forces in Shanghai. In response to the incident, the Japanese began sending in reinforcements to Shanghai. A second front in Shanghai and total war between Japan and Shanghai seems inevitable."
+ news.1500.a:0 "Worrisome."
+ news.1500.b:0 "We should send in reinforcements!"
+ news.1500.c:0 "Death to invaders!"
